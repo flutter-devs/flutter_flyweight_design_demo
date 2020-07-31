@@ -1,0 +1,17 @@
+[
+  {
+    "id": "structural Pattern",
+    "title": "Structural Pattern",
+    "color": "0xFF5036D5",
+    "patterns": [
+      {
+        "id": "flyweight",
+        "title": "Flyweight",
+        "description": "Flyweight contains intrinsic state while the extrinsic state is passed to the flyweight's methods.",
+        "route": "/flyweight"
+      }
+
+    ]
+  }
+
+]
